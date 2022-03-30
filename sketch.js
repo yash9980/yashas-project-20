@@ -52,7 +52,7 @@ function setup(){
       // isStatic true
       // isStatic:false
        isStatic:true
-    };b
+    };
 
     // rotator1 = rectangle(250,200,150,20,rotator_options);
     // World.add(world,rotator1);
